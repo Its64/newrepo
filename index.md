@@ -12,7 +12,7 @@ hero:
       link: /markdown-examples
 
 features:
-  - title: My soft skills
+  - title: My soft skill
     details: Click this item to see more information about my soft skills
     link: /markdown-examples
   - title: My hard skills
